@@ -84,4 +84,4 @@ Carreras alternativas:
     5. Psicologia Infantil
     6. Cosmetologia y Estética 
 
-[enlacecuentagil](https://github.com/melina-reynoso/melina-reynoso.github.io)
+[enlacecuentagil](https://melina-reynoso.github.io/)
