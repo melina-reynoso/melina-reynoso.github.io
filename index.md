@@ -1,4 +1,4 @@
-##  hola soy Melina,  Bienvenido a mi sitio de Github en donde te mostraré algunos de mis trabajos <3
+##  hola soy Melina,  Bienvenido a mi sitio de Github en donde te daré a conocer un poco de mi <3
 
 You can use the [editor on GitHub](https://github.com/melina-reynoso/melina-reynoso.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -37,51 +37,51 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-# Melina Reynoso Gil 
-## Melina Reynoso Gil
-### Melina Reynoso Gil
-#### Melina Reynoso Gil
-##### Melina Reynoso Gil
-###### Melina Reynoso Gil 
+# Presentación 
+Hola, me llamo Melina Reynoso Gil
 
-> Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi
+tengo 17 años
 
-> Creo que los animales ven en el hombre un ser igual a ellos que ha perdido de forma extraordinariamente peligrosa el sano intelecto animal.
-> Es decir, que ven en él al animal irracional, al animal que ríe, al animal que llora, al animal infeliz. — Friedrich Nietzsche
+Actualmente estudio en el cetis 32 en la especialidad de Ofimática 
+## Gustos:
+Hablando de carreras lo que mas me gustaria estudiar seria psicologia infantil y especialidad en Estetica facial y corporal
 
- > Mely Gil 
+Desde chiquita me ha interesado muchisimo, incluso hacia mis mascarillas caseras y lo de psicologia infantil pues me empezó a llamar la atencion por el comportamiento de los niños. En ocasiones observo  y lo analiso
 
-> > Mely Reynoso 
+Algunos casos va dependiendo al tipo de caracter, al temperamento o las circunstancias particulares de cada uno.
 
-> Melina Reynoso Gil
+### Habilidades sociales 
+Asertividad puesto a que tengo capacidad de hablar de un tema sin miedo a reacciones negativas 
 
-- Reynoso Gil 1
-- Reynoso Gil 2
-* Reynoso Gil 3
-* Reynoso Gil 4
-+ Reynoso Gil 4
-+ Reynoso Gil 5
+Expresar afecto: puede parecer tonto pero el dar y recibir afecto habla muy bien de alguien pues de poco sirve querer o sentir aprecio por una persona si esta no lo sabe o no lo demostramos 
 
+Pedir perdón: Negar nuestras equivocaciones, a la larga, ni siquiera sirve para proteger nuestra autoestima, ya que nos aleja de nuestros seres queridos y favorece el aislamiento 
 
-- Reynoso Gil 1
-- Reynoso Gil 2
+#### Habilidades tecnologicas 
+- Excel 
+- Word
+* Powerpoint
 
-  - Reynoso Gil 3 
-  - Reynoso Gil 4
- 
-    - Reynoso Gil 5
-    - Reynoso Gil 6
+##### Experiencia Laboral 
+> Excel: Hago uso de macros y formulas para sacar el CURP, RFC, Suma de varias celdas así como tambien sé tener un registro de productos e informacion de clientes, llevo el control de los  ingresos de  una empresas/negocios
+> 
+> Word: Sé crear documentos de calidad profesional.
+> 
+> PowerPoint: Sé realizar presentaciones de diapositivas.
 
-1. Reynoso Gil 1
-2. Reynoso Gil 2
+###### Idiomas 
+1. Español
 
-   - Reynoso Gil 3 
-   - Reynoso Gil 4
- 
-     1. Reynoso Gil 5
-     2. Reynoso Gil 6
+###### Otros datos de interés 
+Carreras alternativas:
 
-~~~
-Creando una linda y llamativa pfresentacion 
-Reynoso Gil Melina
-~~~
+1. Arquitectura 
+2. Criminologia
+
+  3. Medico Cirujano 
+  4. Diseño Interior 
+  
+    5. Psicologia Infantil
+    6. Cosmetologia y Estética 
+
+[enlacecuentagil](https://github.com/melina-reynoso/melina-reynoso.github.io)
