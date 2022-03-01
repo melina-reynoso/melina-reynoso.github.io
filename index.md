@@ -58,9 +58,9 @@ Expresar afecto: puede parecer tonto pero el dar y recibir afecto habla muy bien
 Pedir perdón: Negar nuestras equivocaciones, a la larga, ni siquiera sirve para proteger nuestra autoestima, ya que nos aleja de nuestros seres queridos y favorece el aislamiento 
 
 #### Habilidades tecnologicas 
-- Excel 
-- Word
-* Powerpoint
+- Excel, Nivel medio 70%
+- Word, Nivel medio 68%
+* Powerpoint medio 72%
 
 ##### Experiencia Laboral 
 > Excel: Hago uso de macros y formulas para sacar el CURP, RFC, Suma de varias celdas así como tambien sé tener un registro de productos e informacion de clientes, llevo el control de los  ingresos de  una empresas/negocios
@@ -70,7 +70,8 @@ Pedir perdón: Negar nuestras equivocaciones, a la larga, ni siquiera sirve para
 > PowerPoint: Sé realizar presentaciones de diapositivas.
 
 ###### Idiomas 
-1. Español
+1. Español Lengua Natal
+2. Ingles 35%
 
 ###### Otros datos de interés 
 Carreras alternativas:
