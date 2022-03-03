@@ -1,4 +1,4 @@
-[Mis gustos](./gustos.md) [Habilidades sociales](habilidades sociales.md)
+[Mis gustos](./gustos.md) [Habilidades sociales](./habilidades sociales.md)
 ##  hola soy Melina,  Bienvenido a mi sitio de Github en donde te daré a conocer un poco de mi <3
 
 # Presentación 
