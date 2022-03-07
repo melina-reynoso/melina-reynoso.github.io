@@ -6,3 +6,9 @@
 > Word: Sé crear documentos de calidad profesional.
 > 
 > PowerPoint: Sé realizar presentaciones de diapositivas.
+
+| Word | Excel | PowerPoint |
+|------|-------|------------|
+| documentos | macros | presentaciones |
+| graficas | hoja de calculo | animaciones | 
+
