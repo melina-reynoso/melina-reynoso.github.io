@@ -6,3 +6,9 @@ Hablando de carreras lo que mas me gustaria estudiar seria psicologia infantil y
 Desde chiquita me ha interesado muchisimo, incluso hacia mis mascarillas caseras y lo de psicologia infantil pues me empezó a llamar la atencion por el comportamiento de los niños. En ocasiones observo  y lo analiso
 
 Algunos casos va dependiendo al tipo de caracter, al temperamento o las circunstancias particulares de cada uno.
+
+| Ropa | Colores | Peliculas | Comida | Cosas |
+|-------|---------|----------|-----|---|
+| playeras | amarillo | romance | china | plumones | 
+| pants | blanco | terror | japonesa | mascarillas | 
+| tenis | negro | comedia | tacos | perfumes | 
